@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left"><h3>Data Analyst Portfolio</h3><ul><li>Showcase your best data analysis work. Include details like the problem you solved, tools used, and outcomes.</li><li>Visuals: Embed charts, graphs, or screenshots.</li><li>GitHub Repository Link: Provide a link to the repository.</li></ul> <h3>Mechlern: Coder's Assistant</h3><ul><li>Explain how your ML model assists coders. Highlight its purpose and impact.</li><li>Mechlern : Share relevant code snippets.</li><li>GitHub Repository Link: Link to the ML project repository.</li></ul><h3>Getseo: SEO Optimization </h3><ul><li>Description: Briefly discuss your SEO project. What strategies did you implement?</li><li>SEO Keywords: Mention relevant keywords.</li><li>GitHub Repository Link: If applicable, link to the SEO project repository.</li></ul> </p>
+<p align="left"><h3>Data Analyst Portfolio</h3><ul><li>Showcase your best data analysis work. Include details like the problem you solved, tools used, and outcomes.</li><li>Visuals: Embed charts, graphs, or screenshots.</li><li><a href="https://github.com/CyrusMoreno/alpacas-r-socute">GitHub Repository </a></li></ul> <h3>Mechlern: Coder's Assistant</h3><ul><li>Explain how your ML model assists coders. Highlight its purpose and impact.</li><li>Mechlern : Share relevant code snippets.</li><li><a href="https://github.com/CyrusMoreno/mechlern">GitHub Repository </a></li></ul><h3>Getseo: SEO Optimization </h3><ul><li>Description: Briefly discuss your SEO project. What strategies did you implement?</li><li>SEO Keywords: Mention relevant keywords.</li><li><a href="https://github.com/CyrusMoreno/getseo">GitHub Repository </a></li></ul> </p>
 
 ###
 
