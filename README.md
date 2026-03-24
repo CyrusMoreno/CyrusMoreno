@@ -18,7 +18,23 @@
 
 ###
 
-<p align="left"><h3>Data Analyst Portfolio</h3><ul><li>Showcase your best data analysis work. Include details like the problem you solved, tools used, and outcomes.</li><li>Visuals: Embed charts, graphs, or screenshots.</li><li><a href="https://github.com/CyrusMoreno/alpacas-r-socute">Google Capstone Project </a></li> <li><a href="https://github.com/CyrusMoreno/Cyrus.Use.Data.Science">Code Repo For My Youtube channel </a></li> </ul> <h3>Mechlern: Coder's Assistant</h3><ul><li>Explain how your ML model assists coders. Highlight its purpose and impact.</li><li>Mechlern : Share relevant code snippets.</li><li><a href="https://github.com/CyrusMoreno/mechlern">GitHub Repository </a></li></ul><h3>Java Markdown Parser</h3><ul><li>Description: This project is a simple Markdown parser written in Java. It converts basic Markdown syntax (headers, bold, and italic text) to HTML and writes the output to an HTML file.</li><li>Programming Languages and Scripts used: Java, Markdown Language and HTML </li><li><a href="https://github.com/CyrusMoreno/JavaMarkdownParser">GitHub Repository </a></li></ul> </p>
+<p align="left">
+<h3>StructPrompt: A Logic-First AI Communication Protocol</h3>
+<ul>
+<li>StructPrompt is a standardized, language-agnostic template designed to optimize interactions between human developers and Large Language Models (LLMs).</li>
+<li>Sample Prompt will be uploaded soon</li>
+<li><a href="https://github.com/CyrusMoreno/StructPrompt-Protocol/">Github Page</a></li> 
+</ul> 
+
+<h3>Data Analyst Portfolio</h3>
+<ul>
+<li>Showcase your best data analysis work. Include details like the problem you solved, tools used, and outcomes.</li>
+<li>Visuals: Embed charts, graphs, or screenshots.</li>
+<li><a href="https://github.com/CyrusMoreno/alpacas-r-socute">Google Capstone Project </a></li> 
+<li><a href="https://github.com/CyrusMoreno/Cyrus.Use.Data.Science">Code Repo For My Youtube channel </a></li> 
+</ul> 
+
+<h3>Mechlern: Coder's Assistant</h3><ul><li>Explain how your ML model assists coders. Highlight its purpose and impact.</li><li>Mechlern : Share relevant code snippets.</li><li><a href="https://github.com/CyrusMoreno/mechlern">GitHub Repository </a></li></ul><h3>Java Markdown Parser</h3><ul><li>Description: This project is a simple Markdown parser written in Java. It converts basic Markdown syntax (headers, bold, and italic text) to HTML and writes the output to an HTML file.</li><li>Programming Languages and Scripts used: Java, Markdown Language and HTML </li><li><a href="https://github.com/CyrusMoreno/JavaMarkdownParser">GitHub Repository </a></li></ul> </p>
 
 ###
 
