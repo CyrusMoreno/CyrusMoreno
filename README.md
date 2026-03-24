@@ -34,7 +34,9 @@
 <li><a href="https://github.com/CyrusMoreno/Cyrus.Use.Data.Science">Code Repo For My Youtube channel </a></li> 
 </ul> 
 
-<h3>Mechlern: Coder's Assistant</h3><ul><li>Explain how your ML model assists coders. Highlight its purpose and impact.</li><li>Mechlern : Share relevant code snippets.</li><li><a href="https://github.com/CyrusMoreno/mechlern">GitHub Repository </a></li></ul><h3>Java Markdown Parser</h3><ul><li>Description: This project is a simple Markdown parser written in Java. It converts basic Markdown syntax (headers, bold, and italic text) to HTML and writes the output to an HTML file.</li><li>Programming Languages and Scripts used: Java, Markdown Language and HTML </li><li><a href="https://github.com/CyrusMoreno/JavaMarkdownParser">GitHub Repository </a></li></ul> </p>
+
+
+<h3>Java Markdown Parser</h3><ul><li>Description: This project is a simple Markdown parser written in Java. It converts basic Markdown syntax (headers, bold, and italic text) to HTML and writes the output to an HTML file.</li><li>Programming Languages and Scripts used: Java, Markdown Language and HTML </li><li><a href="https://github.com/CyrusMoreno/JavaMarkdownParser">GitHub Repository </a></li></ul> </p>
 
 ###
 
