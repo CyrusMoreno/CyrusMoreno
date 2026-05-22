@@ -11,9 +11,9 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/cyrusemorenoph/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a/>
   <a href="https://twitter.com/CyrusEMoreno"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /><a/>
-  <a href="mailto:cyrusthegreatmoreno@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /><a/>
+  <a href="https://ko-fi.com/cyrusemoreno"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="gmail logo"  /><a/>
+  <a href="https://www.youtube.com/@CyrusOnTechDev"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="gmail logo"  /><a/>
 </div>
 
 ###
